@@ -4,6 +4,8 @@ An agentic learning platform built with **LangGraph** and **Streamlit** that tra
 
 ---
 
+Try it : https://lyra-smart-learningagentic-wd4tzzbqubzdatm8rzrc5k.streamlit.app/
+
 ## 🚀 Overview
 This assistant leverages a multi-agent system to analyze documents, build a logical curriculum, teach concepts via RAG, and validate knowledge through dynamic assessments.
 
