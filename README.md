@@ -14,6 +14,7 @@ Powered by **LangGraph**, the system orchestrates three specialized agents:
 1. **The Architect:** Analyzes PDFs and generates a step-by-step learning roadmap.
 2. **The Tutor:** Delivers interactive lessons using PDF context and Wikipedia search.
 3. **The Examiner:** Generates and evaluates quizzes to ensure concept mastery.
+4. **The Grader** : Grades the answer of the user 
 
 ## ✨ Key Features
 * **PDF Intelligence:** Upload study material to seed the knowledge base.
@@ -25,6 +26,6 @@ Powered by **LangGraph**, the system orchestrates three specialized agents:
 ## 🛠️ Tech Stack
 * **Orchestration:** LangGraph, LangChain , Python
 * **Frontend:** Streamlit
-* **LLM Framework:** OpenAI , Gpt -3.5-pro
+* **LLM Framework:** OpenAI , Gpt -3.5-turbo
 * **Tools:** Wikipedia API, FAISS
 
